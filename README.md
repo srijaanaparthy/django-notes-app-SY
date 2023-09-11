@@ -30,4 +30,4 @@ Install Nginx reverse proxy to make this application available
 `sudo apt install nginx`
 
 
-github hook testing - jenkins job trigger
+github hook testing - jenkins job trigger  - 2 jobs
